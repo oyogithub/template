@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<style>
+P {text-align:center;}
+
+#btn{
+   font-size: 25px;
+}
+button {
+  margin:auto;
+  display:block;
+  color:white;
+  background: #587286;
+  font-family:helvetica;
+  font-size:20px;
+  font-weight:100;
+
+}
+div{
+	margin:0;
+}
+
+</style>
+</head>
+
+<body>
+
+<div style="height: 470px;
+  width: 570px;
+  background-color:rgb(223, 227, 233); margin-right: 30%; margin-left: 30%; ">
+  <br>
+  <br>
+  <br>
+  <hr>
+<p>Dear Varun Gupta,</p>
+<p style="color:red;font-size:24px"><i>Greetings from weddingz.in -- India's largest weddingz company!</i></p>
+
+<p> Thank you for signing up with weddingz.in, we are pleased to work with you.</p>
+
+<p>please click below to activate your account, once verified you can login and create your profile yourself.</p>
+
+<button type="button" id=btn onclick="window.location='https://m.weddingz.in/activate/varungupta7042@gmail.com/hm1ubc/';">Verify account</button>
+
+<p><u>https://m.weddingz.in/activate/varungupta7042@gmail.com/hm1ubc/</u> </p>
+
+<p>Regards,<br>
+
+Weddingz team<br>
+
+<a href="info@weddingz.in">info@weddingz.in</a><br>
+
+76-66-77-88-99<br>
+</p>
+
+</div>
+
+<div style="background-color:rgb(54, 54, 54);height=400px;width=520px;margin-right: 30%; margin-left: 30%;">
+	<br>
+	<h2 style="text-align:center;color:white;font-size=27px">About Weddingz</h2> 
+
+<p style="text-align:center;color:white;">Weddingz.in is the largest wedding company in India. We provide technology enabled wedding planning services.Our users can explore over 4000 listed service providers across ten cities that caters to the weddings/events markets. Not only do we provide comprehensive and current information on venues and vendors, we also help our users book their services. From vendor discovery to top wedding brands and products on our Weddingz Shop and from wedding planning ideas to real weddings, we pride ourselves on the depth of our content, a great user friendly web interface and absolutely impeccable customer service.Destination Weddings is one of the premium service offered by Weddingz.in for customer looking to book destination wedding in India If it's a wedding your planning, you've come to the right place!</p>
+
+<br>
+
+</div>
+
+</body>
+
+
+</html>
